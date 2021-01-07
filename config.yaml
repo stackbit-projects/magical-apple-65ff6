@@ -34,7 +34,7 @@ params:
         template: action
         label: Contact
         url: /contact/
-        style: button
+        style: icon
     logo_img_alt: what
   footer:
     type: footer
