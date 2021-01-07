@@ -40,6 +40,7 @@ params:
         label: Contact
         url: /contact/
         style: link
+    logo_img: /images/logo.png
   footer:
     type: footer
     template: footer
