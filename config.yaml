@@ -35,6 +35,7 @@ params:
         label: Contact
         url: /contact/
         style: icon
+        icon_class: Test
     logo_img_alt: what
   footer:
     type: footer
