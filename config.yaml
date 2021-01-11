@@ -7,7 +7,7 @@ params:
   header:
     type: header
     template: header
-    title: Hell0
+    title: ''
     has_nav: true
     nav_links:
       - type: action
