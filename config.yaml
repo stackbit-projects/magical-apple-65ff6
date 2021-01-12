@@ -37,7 +37,6 @@ params:
         style: button
         icon_class: Test
     logo_img_alt: what
-    logo_img: /images/Untitled-33.png
   footer:
     type: footer
     template: footer
