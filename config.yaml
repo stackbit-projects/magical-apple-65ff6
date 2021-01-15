@@ -3,7 +3,7 @@ baseURL: /
 params:
   description: A portfolio theme with a blog
   color_scheme: dark
-  accent_color: green
+  accent_color: yellow
   header:
     type: header
     template: header
