@@ -4,7 +4,7 @@ baseURL: "/"
 params:
   description: A portfolio theme with a blog
   color_scheme: light
-  accent_color: blue
+  accent_color: green
   header:
     type: header
     template: header
