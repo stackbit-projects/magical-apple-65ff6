@@ -69,5 +69,13 @@ sections:
         label: View Blog
         url: blog
         style: button
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    col_number: three
+    is_numbered: false
+    grid_items: []
+    type: section_grid
+    template: section_grid
 layout: advanced
 ---
