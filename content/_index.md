@@ -29,7 +29,7 @@ sections:
     title: What We Do
     section_id: services
     subtitle: An optional subtitle of the section
-    col_number: two
+    col_number: three
     is_numbered: true
     grid_items:
       - type: grid_item
