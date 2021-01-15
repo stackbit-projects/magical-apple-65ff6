@@ -6,6 +6,7 @@ date: '2021-01-15'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 layout: project
+thumb_image: /images/Untitled-3f.png
 ---
 ## Lorem ipsum
 
