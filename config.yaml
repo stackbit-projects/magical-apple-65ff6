@@ -1,85 +1,105 @@
+---
 title: Stackbit Exto Theme
-baseURL: /
+baseURL: "/"
 params:
   description: A portfolio theme with a blog
   color_scheme: light
-  accent_color: pink
+  accent_color: blue
   header:
     type: header
     template: header
     title: ''
     has_nav: true
     nav_links:
-      - type: action
-        template: action
-        label: Home
-        url: /
-        style: link
-      - type: action
-        template: action
-        label: Portfolio
-        url: /portfolio/
-        style: link
-      - type: action
-        template: action
-        label: Blog
-        url: /blog/
-        style: link
-      - type: action
-        template: action
-        label: About
-        url: /about/
-        style: link
-      - type: action
-        template: action
-        label: Contact
-        url: /contact/
-        style: button
-        icon_class: Test
+    - type: action
+      template: action
+      label: Home
+      url: "/"
+      style: link
+      icon_class: ''
+      new_window: false
+      no_follow: false
+    - type: action
+      template: action
+      label: Portfolio
+      url: "/portfolio/"
+      style: link
+      icon_class: ''
+      new_window: false
+      no_follow: false
+    - type: action
+      template: action
+      label: Blog
+      url: "/blog/"
+      style: link
+      icon_class: ''
+      new_window: false
+      no_follow: false
+    - type: action
+      template: action
+      label: About
+      url: "/about/"
+      style: link
+      icon_class: ''
+      new_window: false
+      no_follow: false
+    - type: action
+      template: action
+      label: Contact
+      url: "/contact/"
+      style: button
+      icon_class: Test
+      new_window: false
+      no_follow: false
     logo_img_alt: what
-    logo_img: /images/Untitled-11.png
+    logo_img: "/images/Untitled-11.png"
   footer:
     type: footer
     template: footer
-    content: >-
-      &copy; Stackbit. All rights reserved. This Jamstack site was created with
-      <a href="https://www.stackbit.com/?utm_source=deployed-footer"
-      target="_blank" rel="noopener">Stackbit</a>. Create yours <a
-      href="https://app.stackbit.com/create?theme=exto&utm_source=deployed-footer"
-      target="_blank" rel="noopener">now</a>
+    content: '&copy; Stackbit. All rights reserved. This Jamstack site was created
+      with <a href="https://www.stackbit.com/?utm_source=deployed-footer" target="_blank"
+      rel="noopener">Stackbit</a>. Create yours <a href="https://app.stackbit.com/create?theme=exto&utm_source=deployed-footer"
+      target="_blank" rel="noopener">now</a>'
     has_social: true
     social_links:
-      - type: action
-        template: action
-        label: Twitter
-        url: 'https://twitter.com/'
-        style: icon
-        icon_class: fa-twitter
-        new_window: true
-      - type: action
-        template: action
-        label: Instagram
-        url: 'https://www.instagram.com/'
-        style: icon
-        icon_class: fa-instagram
-        new_window: true
-      - type: action
-        template: action
-        label: Dribbble
-        url: 'https://dribbble.com/'
-        style: icon
-        icon_class: fa-dribbble
-        new_window: true
-      - type: action
-        template: action
-        label: LinkedIn
-        url: 'https://www.linkedin.com/'
-        style: icon
-        icon_class: fa-linkedin
-        new_window: true
+    - type: action
+      template: action
+      label: Twitter
+      url: https://twitter.com/
+      style: icon
+      icon_class: fa-twitter
+      new_window: true
+      no_follow: false
+    - type: action
+      template: action
+      label: Instagram
+      url: https://www.instagram.com/
+      style: icon
+      icon_class: fa-instagram
+      new_window: true
+      no_follow: false
+    - type: action
+      template: action
+      label: Dribbble
+      url: https://dribbble.com/
+      style: icon
+      icon_class: fa-dribbble
+      new_window: true
+      no_follow: false
+    - type: action
+      template: action
+      label: LinkedIn
+      url: https://www.linkedin.com/
+      style: icon
+      icon_class: fa-linkedin
+      new_window: true
+      no_follow: false
+    links: []
+  favicon: ''
 taxonomies:
   stub: stub
 disableKinds:
-  - RSS
-  - taxonomy
-  - taxonomyTerm
+- RSS
+- taxonomy
+- taxonomyTerm
+uglyURLs: false
