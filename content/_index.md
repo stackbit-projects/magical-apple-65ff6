@@ -20,7 +20,7 @@ sections:
     title: Recent Work
     section_id: latest-projects
     subtitle: An optional subtitle of the section
-    layout_style: mosaic
+    layout_style: tiles
     projects_number: 4
     view_all_label: View All
     view_all_url: portfolio
