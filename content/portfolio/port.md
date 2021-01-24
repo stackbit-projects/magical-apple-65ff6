@@ -2,13 +2,12 @@
 title: Port
 subtitle: a while back
 excerpt: lorem-ipsum
-date: 2021-01-15
+date: '2021-01-15'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 layout: project
-thumb_image: "/images/Untitled-3f.png"
+thumb_image: /images/20210124_055928-01.jpeg
 image: ''
-
 ---
 ## Lorem ipsum
 
