@@ -29,7 +29,7 @@ sections:
     title: Latest from the Blog
     section_id: latest-posts
     subtitle: An optional subtitle of the section
-    posts_number: 3
+    posts_number: 2
     col_number: two
     actions:
       - type: action
