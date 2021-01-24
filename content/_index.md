@@ -30,7 +30,7 @@ sections:
     section_id: latest-posts
     subtitle: An optional subtitle of the section
     posts_number: 3
-    col_number: three
+    col_number: two
     actions:
       - type: action
         template: action
