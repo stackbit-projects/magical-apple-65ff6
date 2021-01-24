@@ -20,4 +20,3 @@ Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod temp
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8YlsJidpSv4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![](/images/Untitled-3d.png)
-
