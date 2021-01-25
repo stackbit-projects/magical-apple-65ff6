@@ -1,5 +1,5 @@
 ---
-title: 'Maneuvering Near '
+title: 'Maneuvering Near Light '
 subtitle: a while back
 excerpt: lorem-ipsum
 date: '2021-01-15'
