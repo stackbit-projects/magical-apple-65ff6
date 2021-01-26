@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - type: section_hero
     template: section_hero
-    title: Hello There!
+    title: Hola!
     section_id: hero
     content: >
       Welcome to my personal site. A canvas where I create, showcase and put my
