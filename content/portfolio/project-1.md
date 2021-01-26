@@ -4,7 +4,7 @@ subtitle: Optional Project Subtitle
 date: 2019-05-10
 thumb_image: "/images/nervous-sunflower.jpg"
 thumb_image_alt: White, black, and red shoe sole
-image: "/images/20210125_053933 01.jpg"
+image: ''
 image_alt: White, black, and red shoe sole
 layout: project
 excerpt: ''
