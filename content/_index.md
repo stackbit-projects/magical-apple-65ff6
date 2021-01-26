@@ -6,9 +6,9 @@ sections:
     template: section_hero
     title: Hello There!
     section_id: hero
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      Welcome to my personal site. A canvas where I create, showcase and put my
+      ideas into action.
     actions:
       - type: action
         template: action
