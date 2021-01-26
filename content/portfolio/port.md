@@ -7,7 +7,7 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 layout: project
 image: ''
-thumb_image: /images/20210125_043103.png
+thumb_image: /images/20210125_053933.jpg
 ---
 ## Lorem ipsum
 
