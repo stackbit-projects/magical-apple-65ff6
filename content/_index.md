@@ -7,7 +7,7 @@ sections:
     title: Hello There!
     section_id: hero
     content: >
-      Welcome to my personal site. A canvas where I create, showcase and put my
+      Welcome to my personal site. A place where I create, showcase and put my
       ideas into action.
     actions:
       - type: action
