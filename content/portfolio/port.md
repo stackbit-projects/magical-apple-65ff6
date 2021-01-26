@@ -2,20 +2,12 @@
 title: As The Years Go By
 subtitle: a while back
 excerpt: lorem-ipsum
-date: '2021-01-15'
+date: 2021-01-15
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 layout: project
 image: ''
-thumb_image: /images/20171127_151939-01.jpeg.jpg
+thumb_image: "/images/20171127_151939-01.jpeg.jpg"
+
 ---
-## Lorem ipsum
-
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-* Lorem ipsum
-* dolor sit amet
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8YlsJidpSv4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-![](/images/0001-3.jpg)
+Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.
