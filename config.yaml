@@ -3,7 +3,7 @@ baseURL: /
 params:
   description: Personal website of scientist and creator Ahmed Nassar
   color_scheme: light
-  accent_color: violet
+  accent_color: pink
   header:
     type: header
     template: header
