@@ -2,7 +2,7 @@
 title: Hello World
 subtitle: Optional Project Subtitle
 date: '2019-05-10'
-thumb_image: /images/2_thumb.jpg
+thumb_image: /images/20160319_172456-01.jpeg.jpg
 thumb_image_alt: 'White, black, and red shoe sole'
 image: images/1.jpg
 image_alt: 'White, black, and red shoe sole'
