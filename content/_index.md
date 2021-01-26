@@ -8,7 +8,7 @@ sections:
     section_id: hero
     content: >
       Welcome to my personal site. A place where I create, showcase and put my
-      ideas into action as a scientist and creator.
+      ideas into action as a Scientist and Creator.
     actions:
       - type: action
         template: action
