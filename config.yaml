@@ -2,7 +2,7 @@ title: Ahmed Nassar
 baseURL: /
 params:
   description: Personal website of scientist and creator Ahmed Nassar
-  color_scheme: dark
+  color_scheme: light
   accent_color: violet
   header:
     type: header
