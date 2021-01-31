@@ -24,7 +24,7 @@ Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat u
 
 ![](/images/20160223_155348-01-01-01-1.jpg)
 
-### Competition
+### Playground: Competition
 
 Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.
 
@@ -36,7 +36,7 @@ Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat u
 
 ![](/images/20160523_164422-01-1.jpg)
 
-### Change
+### Playground: Horizons
 
 Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.
 
