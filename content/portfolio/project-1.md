@@ -22,6 +22,8 @@ Here I provide the Arabic transcript for the video.
 
 ## English  vs  Arabic
 
+ 
+
 In this table, we can see some examples of the Arabic translation that's included in the video compared to the original English transcript.
 
 ![](/images/0001-3.jpg)
