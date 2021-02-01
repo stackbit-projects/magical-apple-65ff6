@@ -10,9 +10,13 @@ layout: project
 excerpt: ''
 
 ---
-Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.
+In this video, the speaker explains what happens to mass at speeds near the speed of light through two major concepts: Transverse Mass and Longitudinal Mass.
+
+Here I provide the Arabic transcript for the video.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8YlsJidpSv4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+##### Note: To review the Arabic translation please press the CC button
 
 ## English  vs  Arabic
 
