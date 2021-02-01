@@ -18,6 +18,8 @@ Here I provide the Arabic transcript for the video.
 
 ##### Note: Press the CC button after playing the video
 
+ 
+
 ## English  vs  Arabic
 
 In this table, we can see some examples of the Arabic translation that's included in the video compared to the original English transcript.
