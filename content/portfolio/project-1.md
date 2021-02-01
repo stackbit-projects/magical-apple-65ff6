@@ -14,4 +14,8 @@ Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan s
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8YlsJidpSv4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## English  vs  Arabic
+
+In this table, we can see some examples of the Arabic translation that's included in the video compared to the original English transcript.
+
 ![](/images/0001-3.jpg)
