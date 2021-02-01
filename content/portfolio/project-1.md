@@ -16,7 +16,7 @@ Here I provide the Arabic transcript for the video.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8YlsJidpSv4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-##### Note: To review the Arabic translation please press the CC button
+##### Note: To review the Arabic translation please press the CC button after playing the video.
 
 ## English  vs  Arabic
 
