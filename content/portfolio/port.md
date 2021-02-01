@@ -26,13 +26,17 @@ Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat u
 
 ### Playground: Competition
 
-Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.
+What's life without competition? Just like everything in life, competition  shapes the college experience like no other thing could.
+
+In a tight game between freshmen and juniors each managing only one goal on the scoresheet, everybody standing on the touchline, the wait is not over.
+
+Substituted before the final whistle, Ibrahim joins the rest as he watches the last moments of the game unfold, a game that is yet to yield a winner.
 
 ![](/images/20160319_172456-01.jpeg.jpg)
 
 ### Conversation
 
-Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.
+Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan. Remember? rain is everybody's best friend.
 
 ![](/images/20160523_164422-01-1.jpg)
 
@@ -50,6 +54,6 @@ Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat u
 
 ### Rain: Second Perspective
 
-Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.
+Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Remember? Rain is everybody's best friend.
 
 ![](/images/20181206_150725-01-jpeg.jpg)
