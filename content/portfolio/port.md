@@ -20,7 +20,7 @@ Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat u
 
 ### Recess
 
-Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.
+eying the science community and going ro be part of it. Long days are integral specially in the science community 
 
 ![](/images/20160223_155348-01-01-01-1.jpg)
 
@@ -42,9 +42,9 @@ Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat u
 
 ![](/images/20171127_151939-01.jpeg.jpg)
 
-### Rain: First Perspective
+### Rain: First Perspective 
 
-Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.
+It's getting gloomy out there! Only, it is not. Beloved as it is, for the warmth and joy it brings upon our world, something better was yet to make an appearance. Rain. everything was in place The signs were there it wasn't not one of those long days we didn't have to wait much. The lecture is over now flocking towards exit each with a different purpose in mind waiting looking through the window I spot her. Faster than everybody arriving at to solely enjoy the rain or at least she thought. Rain is everybody's best friend.
 
 ![](/images/20181206_150958-02-2.jpg)
 
