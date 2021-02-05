@@ -26,13 +26,13 @@ Being a scientist is synonymous with having long days and this definitely belong
 
 ### Playground: Competition
 
-![](/images/20160319_172456-01.jpeg.jpg)
-
 What's life without competition? Just like everything in life, competition  shapes the college experience like no other thing could. A tight game between freshmen and juniors, each managing only one goal on the scoresheet, everybody standing on the touchline, the wait is not over. Substituted before the final whistle, Ibrahim joins the rest of the crowd as he watches the last moments of the game unfold, a game that is yet to yield a winner.
+
+![](/images/20160319_172456-01.jpeg.jpg)
 
 ### Conversation
 
-On campus, different types of conversations take place everyday. While Ibrahim went to discuss some details of the Botany exam others were enjoying a different type of conversation unless they, too, were talking about botany. We will never know. 
+On campus, different types of conversations take place everyday. While Ibrahim went to discuss some details of the Botany exam others were enjoying a different type of conversation unless they, too, were talking about botany. We will never know.
 
 ![](/images/20160523_164422-01-1.jpg)
 
