@@ -50,6 +50,6 @@ It's getting gloomy out there! Only, it is not. Beloved as it is, for the warmth
 
 ### Rain: Second Perspective
 
-Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Remember? Rain is everybody's best friend.
+Sometimes the most contrastive events in life are just moments apart. This becomes more likely if the two events are experienced by two different people, and that was true here. A solo walk into the rain was followed by a group running into it. Complete silence versus confetti of words. All thanks to rain, everybody's best friend.
 
 ![](/images/20181206_150725-01-jpeg.jpg)
