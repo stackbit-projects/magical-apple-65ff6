@@ -38,7 +38,7 @@ On campus, different types of conversations take place everyday. While Ibrahim w
 
 ### Playground: Horizons
 
-Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.
+New playground, new possibilities.  
 
 ![](/images/20171127_151939-01.jpeg.jpg)
 
