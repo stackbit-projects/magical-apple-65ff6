@@ -20,7 +20,7 @@ Heading into our first final of many to come, Dr. Zakaria, one of the college's 
 
 ### Recess
 
-Being a scientist is synonymous with having long days and this definitely belongs to the longer ones. Combined with the fact that being in the lecture hall means that students are up for a series of uninterrupted lectures until the end of the day, you'll appreciate every single moment there is to rest. One couldn't miss a chance. Utilizing the few moments between lectures, Salah lays down his head on the desk while Anton, let's say he was savoring the moment.
+Being a scientist is synonymous with having long days and this definitely belongs to the longer ones. Combined with the fact that being in the lecture hall means that students are up for a series of uninterrupted lectures until the end of the day, you'll appreciate every single moment there is to rest. One couldn't miss a chance. Utilizing the few moments we got between lectures, Salah lays his head down on the desk while Anton, let's say he was savoring the moment.
 
 ![](/images/20160223_155348-01-01-01-1.jpg)
 
