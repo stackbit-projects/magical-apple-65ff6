@@ -14,13 +14,13 @@ Never in my entire time at college have I been guilty of anything more than enjo
 
 ### Rays
 
-Heading into our first final of many to come, Dr. Zakaria, one of the college's finest arranges a final all round Botany revision. All eyes on the black board. Being such an important curriculum, it was only natural for everyone to be in the same attentive state. Something to been seen in Abdulsamad's attitude.
+Heading into our first final of many to come, Dr. Zakaria, one of the college's finest arranges a final all round Botany revision. All eyes on the black board. Being such an important curriculum, it was only natural for everyone to be in the same attentive state. Something to be easily seen in Abdulsamad's attitude.
 
 ![](/images/img_20151212_224134.jpg)
 
 ### Recess
 
-Being a scientist is synonymous with having long days and this definitely belongs to the longer ones. Combined with the fact that being in the lecture hall means that students are up for a series of uninterrupted lectures until the end of the day, you'll appreciate every single moment there is to rest. One couldn't miss a chance. In an attempt to utilize the few moments he got between lectures, Salah lays his head down on the desk while Anton, let's say he was savoring the moment.
+Being a scientist is synonymous with having long days and this definitely belongs to the longer ones. Combined with the fact that being in the lecture hall means that students are up for a series of uninterrupted lectures until the end of the day, you'll appreciate every single moment there is to rest. One couldn't miss a chance. In an attempt to utilize the few moments he got before the next lecture, Salah laid his head down on the desk while Anton, let's say he was savoring the moment.
 
 ![](/images/20160223_155348-01-01-01-1.jpg)
 
