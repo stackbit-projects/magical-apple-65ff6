@@ -9,14 +9,18 @@ excerpt: Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum mas
   massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat
   lorem.
 layout: post
+subtitle: ''
 
 ---
-**Donec neque lorem**, sodales non fermentum et, aliquam quis erat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla tincidunt justo eu ante ultrices posuere. Duis cursus at massa ac tempus. Morbi sit amet mi sit amet lorem ullamcorper feugiat ac et dolor. Nullam rhoncus urna tincidunt odio ultricies, at dapibus felis facilisis. Ut condimentum nulla eget feugiat finibus. Suspendisse sit amet purus a eros dignissim commodo ut a erat.
+<div dir="rtl">
+في أحد المرات حاولتُ أن أتخيل ماذا يمكن أن يحدث لو أن يوتوبيا أتت الي واقعنا وأصبحنا نلمسها في كل شئ حولنا، كل شئ مثالي .. كيف سيكون الأمر؟ واذا ما أردنا أن نُجسد يوتوبيا لمُشاهد، كيف سيكون هذا العمل؟ في الواقع، ممل جدا. 
 
-Phasellus commodo dolor sit amet, consectetur adipiscing elit. Nam a finibus magna. Sed et pulvinar dolor. Suspendisse vitae iaculis lacus. Proin vulputate, leo eget pulvinar faucibus, felis est condimentum lorem, in rhoncus neque felis ac leo. Duis felis lectus, ultrices id dolor vel, tincidunt tristique nunc. Nullam quis orci magna. Proin eget nunc et dolor hendrerit eleifend. Praesent a vehicula justo, quis convallis lacus. Phasellus porttitor, turpis vel placerat condimentum, urna felis volutpat ligula, et ultricies arcu mi ac nisl. Cras id consectetur ligula, et mollis odio. Aenean erat dui, congue vitae nisi a, aliquet lobortis eros.
+وهذا هو الأمر، بقدر ما تخبرنا يوتوبيا أنها ربما تكون أكثر شئ نرغبه 
+تخبرنا أيضا أنه وفي حال كنا مشاهدين لن يتطلب الأمر أكثر من بضعة دقائق قبل أن ندير ظهورنا للواقفين علي خشبة المسرح أو نغلق شاشاتنا أو ربما نغلق أعيننا. في النهاية، من يتحمل عرض متواصل لتسلسل من الأحداث المثالية؟ أين الحبكة؟ لا معاناة؟! 
 
-> The beauty of type lies in its utility, prettiness without readability serves neither author nor reader. - James Felici
+كلنا وإن كنا حتما مؤديين لازلنا مشاهدين نميل إلي رؤية الصعاب والشعور بالحزن وترقب المعاناة وهي تتجسد أمامنا بل يهم البعض بخلق التراجيديا ليضفوا إلي حياته لمسة درامية هم بالتأكيد في غني عنها.
 
-Sed augue lorem, porta nec lorem et, luctus egestas nunc. Sed in tellus at enim commodo pharetra. Mauris nisi ipsum, auctor nec justo non, lobortis ullamcorper magna. Pellentesque posuere posuere dolor, quis egestas est ultrices id. Cras at urna lectus. Curabitur in placerat ligula. Phasellus pharetra scelerisque lectus, id sagittis lorem pretium eget. Phasellus commodo nunc ante, nec commodo urna iaculis eu. Pellentesque euismod et ante quis vestibulum. Ut quis sapien nisi. Sed interdum sit amet sem et vestibulum. Maecenas tempor dictum leo, quis rutrum purus tincidunt vitae. Fusce vel turpis risus. Donec congue accumsan tempus. Nunc nec elit magna. Aenean luctus auctor ligula at lacinia.
+بل يأخذون الأمر إلي مستوي آخر ويبدأون في مشاركة كل كبيرة وصغيرة من تفاصيل المعاناة التي يمرون بها -او يظنون أنها كذلك- في محاولة غير مباشرة طويلة المدي لانتزاع الجَلَد وسحق بقايا الأمل التي لا تكاد تجتمع لتصنع شكلا حتي تندثر إثر كرمهم الزائد في إبراز المعاناة.
 
-Donec neque lorem, sodales non fermentum et, aliquam quis erat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla tincidunt justo eu ante ultrices posuere. Duis cursus at massa ac tempus. Morbi sit amet mi sit amet lorem ullamcorper feugiat ac et dolor. Nullam rhoncus urna tincidunt odio ultricies, at dapibus felis facilisis. Ut condimentum nulla eget feugiat finibus. Suspendisse sit amet purus a eros dignissim commodo ut a erat. Maecenas pretium velit faucibus, porttitor lacus eu, eleifend sapien. In hac habitasse platea dictumst. Pellentesque nisi nisl, consectetur a accumsan sit amet, finibus vel nibh. Vivamus aliquet urna non turpis vehicula maximus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+
+</div>
