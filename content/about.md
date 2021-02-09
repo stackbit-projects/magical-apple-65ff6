@@ -9,7 +9,8 @@ excerpt: ''
 ---
 You are in the personal zone of Ahmed R. Nassar. Scientist, blogger, and creator.
 
-Versatile as everything in my life my educational background in no exception \[Biophysics\]
+  
+Having obtained my bachelor degree in Biophysics it's safe to say that my educational background falls perfectly in line with my versatile lifestyle.
 
 My curiosity and desire to build helped me create new interests and pick up new skills along the way to achieving whatever comes to my mind. Some of the these interests and skills are as old as I first remember the world and some are relatively new in comparison.
 
