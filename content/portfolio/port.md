@@ -10,7 +10,7 @@ image: ''
 thumb_image: "/images/20160223_155348-01-01-01-1-1.jpg"
 
 ---
-Never in my entire time at college have I been guilty of anything more than trying to enjoy the sun and the contrast in per diem moments and details, whenever and wherever possible. Although this still holds true to this day, there is something unparalleled about the college years. Maybe here we can see why.
+Never in my entire time at college have I been guilty of anything more than trying to enjoy the sun and the fine contrast in per diem moments and details, whenever and wherever possible. Although this still holds true to this day, there is something unparalleled about the college years. Maybe here we can see why.
 
 ### Rays
 
@@ -44,7 +44,7 @@ New playground, new possibilities.
 
 ### Rain: First Perspective
 
-It's getting gloomy out there! Only, it is not. Beloved as it is, for the warmth and joy it brings upon our world, something better was yet to make an appearance. Rain. everything was in place The signs were there it wasn't not one of those long days we didn't have to wait much. The lecture is over now flocking towards exit each with a different purpose in mind waiting looking through the window I spot her. Faster than everybody arriving at to solely enjoy the rain or at least she thought. Rain is everybody's best friend.
+It's getting gloomy out there! Only, it is not. Beloved as it is, for the warmth and joy it brings upon our world, something better was yet to make an appearance. Rain. Everything was in place. With the lecture coming to its end, faster than everybody she goes through the door and arrives at the playground to solely enjoy the rain; or at least she thought.
 
 ![](/images/20181206_150958-02-2.jpg)
 
