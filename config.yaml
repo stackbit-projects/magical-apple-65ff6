@@ -61,7 +61,7 @@ params:
       - type: action
         template: action
         label: Twitter
-        url: 'https://twitter.com/anassar'
+        url: 'https://twitter.com/anassar97'
         style: icon
         icon_class: fa-twitter
         new_window: true
