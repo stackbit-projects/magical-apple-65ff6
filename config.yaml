@@ -69,7 +69,7 @@ params:
       - type: action
         template: action
         label: Instagram
-        url: 'https://www.instagram.com/'
+        url: 'https://www.instagram.com/anassar9'
         style: icon
         icon_class: fa-instagram
         new_window: true
