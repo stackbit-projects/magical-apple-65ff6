@@ -34,7 +34,7 @@ What's life without competition? Just like everything in life, competition  shap
 
 ### Conversation
 
-On campus, different types of conversations take place everyday. While Ibrahim went to discuss some details of the Botany exam others were enjoying a different type of conversation. Unless they, too, were talking about botany. We will never know.
+On campus, different types of conversations take place everyday. While Ibrahim went to discuss some details of the upcoming botany exam others were enjoying a different type of conversation. Unless they, too, were talking about botany. We will never know.
 
 ![](/images/20160523_164422-01-1.jpg)
 
