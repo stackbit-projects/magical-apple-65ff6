@@ -45,6 +45,5 @@ fields:
   config:
     required: true
 pages:
-- content/blog/green.md
 - content/blog/hey.md
 - content/blog/why-fonts-matter.md
