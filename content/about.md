@@ -23,4 +23,4 @@ My curiosity and desire to build helped me create new interests and pick up new 
         print(oops, mademoiselle!)
     }
 
-formidable, isn't it?
+formidable, don't you agree?
