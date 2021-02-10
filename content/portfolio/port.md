@@ -10,9 +10,7 @@ image: ''
 thumb_image: "/images/20160223_155348-01-01-01-1-1.jpg"
 
 ---
-Never in my entire time at college have I been guilty of anything more than enjoying the sun in lectures and the
-
-albeit this still holds true to this day.
+Never in my entire time at college have I been guilty of anything more than trying to enjoy the sun and the contrast in per diem moments and details, whenever and wherever possible. Although this still holds true to this day, there is something unparalleled about the college years. Maybe here we can see why.
 
 ### Rays
 
