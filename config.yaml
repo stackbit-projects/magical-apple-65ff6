@@ -62,7 +62,7 @@ params:
         template: action
         label: Twitter
         url: 'https://twitter.com/anassar97'
-        style: button
+        style: icon
         icon_class: fa-twitter
         new_window: true
         no_follow: false
