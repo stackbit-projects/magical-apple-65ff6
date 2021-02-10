@@ -46,7 +46,6 @@ fields:
     required: true
 pages:
 - content/blog/function-of-design.md
-- content/blog/games.md
 - content/blog/green.md
 - content/blog/hey.md
 - content/blog/interior-designer.md
