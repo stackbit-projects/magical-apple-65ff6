@@ -45,11 +45,8 @@ fields:
   config:
     required: true
 pages:
-- content/blog/function-of-design.md
 - content/blog/green.md
 - content/blog/hey.md
 - content/blog/interior-designer.md
-- content/blog/street-photography.md
 - content/blog/why-fonts-matter.md
 - content/blog/working-from-home.md
-- content/blog/workplace.md
