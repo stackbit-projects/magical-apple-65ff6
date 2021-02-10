@@ -14,7 +14,7 @@ Never in my entire time at college have I been guilty of anything more than tryi
 
 ### Rays
 
-Heading into our first final of many to come, Dr. Zakaria, one of the college's finest arranges a final all round Botany revision. All eyes on the black board. Being such an important curriculum, it was only natural for everyone to be in the same attentive state. Something to be easily seen in Abdulsamad's attitude.
+Heading into our first final of many to come, Dr. Zakaria, one of the college's finest arranges a final all round botany revision. All eyes on the black board. Being such an important curriculum, it was only natural for everyone to be in the same attentive state. Something to be easily seen in Abdulsamad's attitude.
 
 ![](/images/img_20151212_224134.jpg)
 
