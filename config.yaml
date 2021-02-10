@@ -76,14 +76,6 @@ params:
         no_follow: false
       - type: action
         template: action
-        label: Dribbble
-        url: 'https://dribbble.com/'
-        style: icon
-        icon_class: fa-dribbble
-        new_window: true
-        no_follow: false
-      - type: action
-        template: action
         label: LinkedIn
         url: 'https://www.linkedin.com/'
         style: icon
