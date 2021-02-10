@@ -82,14 +82,7 @@ params:
         icon_class: fa-linkedin
         new_window: true
         no_follow: false
-    links:
-      - label: lorem-ipsum
-        url: lorem-ipsum
-        style: link
-        icon_class: lorem-ipsum
-        new_window: false
-        no_follow: false
-        type: action
+    links: []
   favicon: ''
 taxonomies:
   stub: stub
