@@ -45,6 +45,5 @@ fields:
   config:
     required: true
 pages:
-- content/portfolio/entropy.md
 - content/portfolio/port.md
 - content/portfolio/project-1.md
