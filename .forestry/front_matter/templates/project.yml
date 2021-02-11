@@ -46,6 +46,5 @@ fields:
     required: true
 pages:
 - content/portfolio/entropy.md
-- content/portfolio/ph.md
 - content/portfolio/port.md
 - content/portfolio/project-1.md
